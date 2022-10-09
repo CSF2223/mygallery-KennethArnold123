@@ -82,7 +82,7 @@ img:hover {
     filter: drop-shadow(.1em .3em .3em #FFFFFF);
 }
 img {
-    transition: transform .2s, black .2s;
+    transition: transform .2s, white .2s;
 }
 
 a {
